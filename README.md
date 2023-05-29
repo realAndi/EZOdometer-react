@@ -2,7 +2,7 @@
 
 EZOdometer is a lightweight and customizable React component for smoothly animating numbers, ideal for creating captivating odometers and counters in web applications.
 
-!(Preview)[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODkzOWFkM2UyYzkxMzE0ZTkxZWY1MGFkYjhjMjk0MTVjODAwNTczOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/BKVtm1A7QiUQhRKU7Y/giphy.gif]
+![Preview](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODkzOWFkM2UyYzkxMzE0ZTkxZWY1MGFkYjhjMjk0MTVjODAwNTczOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/BKVtm1A7QiUQhRKU7Y/giphy.gif)
 
 ## Requirements
 
