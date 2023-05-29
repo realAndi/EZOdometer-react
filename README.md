@@ -10,9 +10,9 @@ EZOdometer is a lightweight and customizable React component for smoothly animat
 
 ## Features
 
-- Smooth transitions: Numbers transition smoothly with customizable animation effects.
+- Smooth transitions: Numbers transition smoothly with customizable animation effects. (TBD)
 - Customizable appearance: Easily modify the appearance and styling to match your project's design.
-- Configurable options: Control the transition duration, easing function, and number formatting.
+- Configurable options: Control the transition duration, easing function, and number formatting. (TBD)
 - Responsive and accessible: The library is responsive and accessible, ensuring a seamless experience for all users.
 - Lightweight and performant: Built with performance in mind, the library is optimized for efficiency and minimal overhead.
 
