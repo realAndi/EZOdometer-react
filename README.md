@@ -21,7 +21,7 @@ EZOdometer is a lightweight and customizable React component for smoothly animat
 Install React Odometer using npm:
 
 ```bash
-npm install ezodometer
+npm install ezodometer-react
 ```
 
 Import the Odometer component in your React project:
