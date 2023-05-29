@@ -1,0 +1,31 @@
+{
+  "name": "ezodometer-react",
+  "version": "1.0.0",
+  "description": "A simple odometer react library to display numbers in a scrolling fashion",
+  "main": "Odometer.js",
+  "dependencies": {
+    "js-tokens": "^4.0.0",
+    "loose-envify": "^1.4.0",
+    "react": "^18.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realAndi/EZOdometer-react.git"
+  },
+  "keywords": [
+    "odometer",
+    "css",
+    "numbers",
+    "scroll",
+    "react"
+  ],
+  "author": "Andi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realAndi/EZOdometer-react/issues"
+  },
+  "homepage": "https://github.com/realAndi/EZOdometer-react#readme"
+}
